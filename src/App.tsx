@@ -19,7 +19,7 @@ export default function App() {
 
         <div className="card" role="region" aria-labelledby="titolo-manutenzione">
           <h1 className="title" id="titolo-manutenzione">
-            Portale FIMASS in manutenzione tecnica
+            Manutenzione in corso...
           </h1>
 
           <p className="lead">
