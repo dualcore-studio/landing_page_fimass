@@ -24,7 +24,9 @@ export default function App() {
 
           <p className="lead">
             Stiamo effettuando alcuni interventi tecnici per migliorare il
-            servizio. Il portale sarà nuovamente disponibile a breve.
+            servizio.
+            <br />
+            Il portale sarà nuovamente disponibile a breve.
           </p>
 
           <p className="body">
